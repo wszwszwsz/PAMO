@@ -1,0 +1,2 @@
+# PAMO
+Zadania z PAMO
